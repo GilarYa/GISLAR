@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     const nameCell = row.insertCell(0);
                     const coordinatesCell = row.insertCell(1);
                     const typeCell = row.insertCell(2);
-                    nameCell.innerText = feature.properties.alamat;
+                    nameCell.innerText = feature.properties.nameb;
                     coordinatesCell.innerText = JSON.stringify(feature.geometry.coordinates);
                     typeCell.innerText = feature.geometry.type;
                     

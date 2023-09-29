@@ -690,7 +690,8 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "gilar50"
+          "name": "gilar50",
+          "namec": ""
         },
         "geometry": {
           "coordinates": [
@@ -1740,7 +1741,8 @@
       {
         "type": "Feature",
         "properties": {
-          "nameb": "tempat1"
+          "nameb": "tempat1",
+          "name": ""
         },
         "geometry": {
           "coordinates": [
@@ -1774,7 +1776,8 @@
       {
         "type": "Feature",
         "properties": {
-          "nameb": "tempat2"
+          "nameb": "tempat2",
+          "name": ""
         },
         "geometry": {
           "coordinates": [
@@ -1804,7 +1807,8 @@
       {
         "type": "Feature",
         "properties": {
-          "nameb": "tempat3"
+          "nameb": "tempat3",
+          "name": ""
         },
         "geometry": {
           "coordinates": [
@@ -1838,7 +1842,8 @@
       {
         "type": "Feature",
         "properties": {
-          "nameb": "tempat4"
+          "nameb": "tempat4",
+          "name": ""
         },
         "geometry": {
           "coordinates": [
@@ -1868,7 +1873,8 @@
       {
         "type": "Feature",
         "properties": {
-          "nameb": "tempat5"
+          "nameb": "tempat5",
+          "name": ""
         },
         "geometry": {
           "coordinates": [
@@ -1902,7 +1908,8 @@
       {
         "type": "Feature",
         "properties": {
-          "nameb": "tempat6"
+          "nameb": "tempat6",
+          "name": ""
         },
         "geometry": {
           "coordinates": [
@@ -1932,7 +1939,8 @@
       {
         "type": "Feature",
         "properties": {
-          "nameb": "tempat7"
+          "nameb": "tempat7",
+          "name": ""
         },
         "geometry": {
           "coordinates": [
@@ -1962,7 +1970,8 @@
       {
         "type": "Feature",
         "properties": {
-          "nameb": "tempat8"
+          "nameb": "tempat8",
+          "name": ""
         },
         "geometry": {
           "coordinates": [
@@ -1996,7 +2005,8 @@
       {
         "type": "Feature",
         "properties": {
-          "nameb": "tempat9"
+          "nameb": "tempat9",
+          "name": ""
         },
         "geometry": {
           "coordinates": [
@@ -2026,7 +2036,8 @@
       {
         "type": "Feature",
         "properties": {
-          "nameb": "tempat10"
+          "nameb": "tempat10",
+          "name": ""
         },
         "geometry": {
           "coordinates": [
@@ -2060,7 +2071,8 @@
       {
         "type": "Feature",
         "properties": {
-          "nameb": "tempat11"
+          "nameb": "tempat11",
+          "name": ""
         },
         "geometry": {
           "coordinates": [
